@@ -1,0 +1,6 @@
+keyboard==0.13.5
+fernet==1.0.1
+cryptography==38.0.1
+colorama==0.4.5
+tk==0.1.0
+customtkinter==4.6.3
