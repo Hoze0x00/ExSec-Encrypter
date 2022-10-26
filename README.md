@@ -1,4 +1,4 @@
-# ExSec-Encryptor
+# ExoSec-Encryptor
 Really simple encryptor using base64 and fernet. Includes Source code, GUI Version and Comand Line version of the project.
 Created by me, under our groups name! This is the first version of the project, so report any kind of suggestions and flaws to me!
 
